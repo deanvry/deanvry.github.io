@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:3131/</loc>
+    <loc>https://deanvry.github.io/</loc>
     <lastmod>2019-12-28T00:29:52+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:3131/general/</loc>
+    <loc>https://deanvry.github.io/general/</loc>
     <lastmod>2019-12-28T00:29:52+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:3131/general/initial-post/</loc>
+    <loc>https://deanvry.github.io/general/initial-post/</loc>
     <lastmod>2019-12-28T00:29:52+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:3131/categories/</loc>
+    <loc>https://deanvry.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:3131/tags/</loc>
+    <loc>https://deanvry.github.io/tags/</loc>
   </url>
   
 </urlset>
